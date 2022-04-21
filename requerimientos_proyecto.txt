@@ -1,0 +1,37 @@
+1. Una tabla que muestre todas las emergencias
+2. abra una ventana (form) 
+3. botón editar que abra el mismo formulario y que permita modificar los datos.
+4. Botón de eliminar una línea de la tabla. Si se elimina en la tabla el dato pasaría a la tabla de eliminados
+   con la fecha de eliminación.
+5. Una tabla en postgresql con los datos
+6. Un botón de exportar por línea en la tabla. Exportar a un excel por línea de la tabla.
+7. Un botón para exportar toda la tabla.
+8. Botón de nuevo.
+9. Un botón para ver el formulario (como una alerta) por línea.
+10. Un botón de crear una nueva alerta.
+11. Un botón para tener archivos adjuntos para subir información en pdf o word.
+12. un id consecutivo en la tabla por cada alerta
+13. Una tabla intermedia con el id de la alerta (tabla) y el id del sector. Donde el id
+    del sector es el mismo nombre. El id de la tabla intermedia tiene que ser consecutivo.
+14. Cuando se despliegue el formulario que muestre el nombre del sector y no su id. 
+15. adjuntar multiples archivos, máximo 3 documentos y el máximo de peso sería de 5MG.
+16. Cuando se despliega el formulario en la parte de adjuntos dejar un botón de visualización
+    por cada archivo adjunto. No es un botón de descarga.
+17. Máximo de 800 caracteres.
+18. Una tabla de usuarios y contraseñas para tener acceso a la herramienta.
+19. La tabla de adjuntos: 
+20. Hacer un CRUD.
+21. Subtipo (inundaciones/deslizamientos/ terremoto/ desplazamiento/ confinamiento/ otros) para la
+    opción de "Otros" 50 caracteres.
+22. Una tabla intermedia con donantes y emergencias. 
+23. No son alertas sino emergencias atendidas. Esto es después de que se ha hecho la atención 
+    de la emergencia.
+24. SOn emergencias atentidas respondidas por parte de Acción contra el hambre.
+25. Una tabla intermedia de adjuntos donde aparece el id de la emergencia con la ruta del
+    documento.
+26. Cada martes presento un avance del proyecto.
+27. Para el martes 26 de abril: tener el diseño del formulario y la lista (grid o tabla).
+28. Para el martes 26 de abril: Maqueta, lo que se sin funcionalidad. 
+29. Para el martes 26 de abril: Preguntarle a Christian por los colores y el tipo de letra.
+30. Para el martes 26 de abril: Interfaz del usuario y contraseña.
+31. Para el martes 26 de abril: Que de una interfaz lleve a la otra. 
